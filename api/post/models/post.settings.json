@@ -33,8 +33,11 @@
       "required": true
     },
     "categories": {
-      "via": "posts",
-      "collection": "category"
+      "collection": "category",
+      "via": "posts"
+    },
+    "tags": {
+      "collection": "tag"
     }
   }
 }
