@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_message_options",
+  "info": {
+    "name": "option",
+    "icon": "angle-right",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "label": {
+      "type": "string"
+    }
+  }
+}

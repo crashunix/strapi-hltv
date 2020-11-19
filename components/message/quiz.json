@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_message_quizzes",
+  "info": {
+    "name": "quiz",
+    "icon": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string",
+      "required": true
+    },
+    "option": {
+      "type": "component",
+      "repeatable": true,
+      "component": "message.option",
+      "required": true
+    }
+  }
+}
